@@ -2,9 +2,7 @@
 
 
 - 🔭 I’m currently working on SQL Server T-sql and Powershell scripts and SSRS Reports to automate or monitor DBA tasks.
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on SQL Server automation.
-- 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/nikhiluk/
 
 <!--
